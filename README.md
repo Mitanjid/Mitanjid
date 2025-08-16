@@ -3,10 +3,10 @@
   <img src="./header.svg" alt="Muzahidul Islam Tanjid glitch header" width="100%">
 </p>
 
-<h3 align="center">🕋 Devoted to Deen & Debugging</h3>
+<h3 align="center">🚀 Exploring Programming</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Code%20with%20purpose-0D1117?style=for-the-badge&labelColor=0D1117&color=1E3A8A">
-  <img src="https://img.shields.io/badge/Live%20with%20Tawakkul-0D1117?style=for-the-badge&labelColor=0D1117&color=2563EB">
+  <img src="https://img.shields.io/badge/Debug%20with%20patience-0D1117?style=for-the-badge&labelColor=0D1117&color=1E3A8A">
+  <img src="https://img.shields.io/badge/Guided%20by%20Deen-0D1117?style=for-the-badge&labelColor=0D1117&color=2563EB">
 </p>
 
 ---
