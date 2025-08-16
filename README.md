@@ -1,9 +1,15 @@
-<h1 align="center">Hi, I'm Tanjid 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=F7971E,FFD200&center=true&vCenter=true&width=550&lines=Hi+I'm+Tanjid+👋;Beginner+Web+Developer+🚀;Passionate+about+Frontend+%26+Backend;Always+Learning+%26+Building+✨" alt="Typing Animation" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Beginner+Web+Developer;Passionate+about+HTML%2C+CSS%2C+JS;Learning+Tailwind+and+React+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/💻-Code%20With%20Passion-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌱-Growing%20Every%20Day-brightgreen?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Animation" />
+</p>
 ---
 
 ## 🚀 Skills
