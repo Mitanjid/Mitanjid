@@ -7,10 +7,7 @@
 />
 
 <!-- Typing Effect -->
-<img 
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=4D96FF&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer+in+Progress+🚀;Exploring+Node.js+and+Tailwind+CSS;Building+Dynamic+Projects+Everyday" 
-  alt="Typing SVG" 
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=20B2AA&center=true&vCenter=true&width=600&lines=Full%20Stack%20Developer%20in%20Progress%20%F0%9F%9A%80;Exploring%20Node.js%20and%20Tailwind%20CSS;Building%20Dynamic%20Projects%20Everyday" alt="Typing SVG" />
 
 </div>
 
