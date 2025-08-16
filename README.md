@@ -1,67 +1,54 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7971E&center=true&vCenter=true&width=550&lines=Hi+I'm+Tanjid+👋;Beginner+Web+Developer+🚀;Passionate+about+Frontend+%26+Backend;Always+Learning+%26+Building+✨" alt="Typing Animation" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/💻-Code%20With%20Passion-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌱-Growing%20Every%20Day-brightgreen?style=for-the-badge" />
-</p>
+<!-- Header with animated gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanjid%20Islam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Animation" />
-</p>
+<!-- Animated typing effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Beginner+Web+Developer+%F0%9F%92%BB;Learning+HTML,+CSS,+JavaScript+%F0%9F%9B%BB;Exploring+Tailwind+CSS" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🌟 About Me
+
+💻 **Beginner Web Developer** from Bangladesh  
+✨ Passionate about building **responsive websites** and **small projects** to improve my skills  
+
+---
 
 ## 🚀 Skills
 
-🧠 **Languages:**  
-`HTML` `CSS` `JavaScript`  
-
-🎨 **Frameworks:**  
-`Tailwind CSS`  
-
-🛠️ **Tools:**  
-`VS Code` `Git` `GitHub`  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
 ## 💻 Projects
 
-🌸 **Flower Shop Landing Page**  
-Responsive website built with HTML & Tailwind CSS  
-🔗 [View Project](https://mitanjid.github.io/PH-assignment-02/)
-
-📚 **My Book Shelf**  
-Simple project to practice CRUD operations  
-🔗 [View Project](https://mitanjid.github.io/my_bookshelf-/)
+- 🌸 **Flower Shop Landing Page** – [View Project](https://mitanjid.github.io/PH-assignment-02/)  
+- 📚 **My Book Shelf** – [View Project](https://mitanjid.github.io/my_bookshelf-/)  
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mitanjid&show_icons=true&theme=radical" alt="Tanjid's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitanjid&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## 🌱 Learning Goals
-
-- 🌐 Build more responsive websites with Tailwind CSS  
-- ⚛️ Learn **React** and **Node.js**  
-- 🤝 Contribute to open-source projects  
+<div align="center">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=mitanjid&show_icons=true&theme=radical&count_private=true" /> 
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitanjid&layout=compact&theme=radical" />
+</div>
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muzahidul-islam-18b8b5329/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzahidul-islam-18b8b5329/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mitanjid)
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
-</p>
-
-<h3 align="center">✨ Always learning, always building!</h3>
+✨ **Always learning, always building!** 🌟
