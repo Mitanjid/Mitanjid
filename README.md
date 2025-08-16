@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=F7971E,FFD200&center=true&vCenter=true&width=550&lines=Hi+I'm+Tanjid+👋;Beginner+Web+Developer+🚀;Passionate+about+Frontend+%26+Backend;Always+Learning+%26+Building+✨" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7971E&center=true&vCenter=true&width=550&lines=Hi+I'm+Tanjid+👋;Beginner+Web+Developer+🚀;Passionate+about+Frontend+%26+Backend;Always+Learning+%26+Building+✨" alt="Typing Animation" />
 </h1>
 
 <p align="center">
@@ -10,7 +10,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Animation" />
 </p>
----
 
 ## 🚀 Skills
 
