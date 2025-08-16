@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- Header with custom animated gradient -->
+<!-- Wavy Gradient Header -->
 <img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Muzahidul%20Islam%20Tanjid&fontSize=42&fontColor=ffffff&color=0:4D96FF,50:6BCB77,100:FFD93D&animation=fadeIn" 
   width="100%" 
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4D96FF,6BCB77,FFD93D&height=200&section=header&text=Muzahidul%20Islam%20Tanjid&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
 />
 
-<!-- Typing effect with different colors & speed -->
+<!-- Typing Effect -->
 <img 
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=4D96FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full+Stack+Developer+in+Progress+🚀;Loving+Node.js+,+Tailwind+CSS+💙;Building+Scalable+Projects+Everyday" 
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=4D96FF&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer+in+Progress+🚀;Exploring+Node.js+and+Tailwind+CSS;Building+Dynamic+Projects+Everyday" 
   alt="Typing SVG" 
 />
 
