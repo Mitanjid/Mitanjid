@@ -1,27 +1,11 @@
-<div align="center" style="position: relative; overflow: hidden;">
-
-<!-- Animated Gradient Background -->
-<svg width="100%" height="180">
-  <defs>
-    <linearGradient id="grad">
-      <stop offset="0%" stop-color="#4D96FF">
-        <animate attributeName="stop-color" values="#4D96FF;#6BCB77;#FFD93D;#4D96FF" dur="8s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" stop-color="#FFD93D">
-        <animate attributeName="stop-color" values="#FFD93D;#4D96FF;#6BCB77;#FFD93D" dur="8s" repeatCount="indefinite" />
-      </stop>
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="180" fill="url(#grad)" />
-</svg>
-
-<!-- Name Overlaid -->
-<h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 36px; font-family: 'Fira Code', monospace;">
-  Muzahidul Islam Tanjid
-</h1>
-
+<div align="center" style="background: linear-gradient(90deg, #4D96FF, #6BCB77, #FFD93D); padding: 30px 0; border-radius: 8px;">
+  <h1 style="color: white; font-family: 'Fira Code', monospace; font-size: 36px; margin: 0;">
+    Muzahidul Islam Tanjid
+  </h1>
+  <p style="color: white; font-size: 18px; margin-top: 10px;">
+    Beginner Web Developer • HTML • CSS • JavaScript • Tailwind
+  </p>
 </div>
-
 ## 🌟 About Me
 
 💻 **Beginner Web Developer** from Bangladesh  
