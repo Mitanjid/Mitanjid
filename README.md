@@ -1,13 +1,16 @@
 <div align="center">
 
-<!-- Wavy Gradient Header -->
+<!-- 🌊 Wavy Gradient Header -->
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Muzahidul%20Islam%20Tanjid&fontSize=42&fontColor=ffffff&color=0:4D96FF,50:6BCB77,100:FFD93D&animation=fadeIn" 
   width="100%" 
 />
 
-<!-- Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=20B2AA&center=true&vCenter=true&width=600&lines=Full%20Stack%20Developer%20in%20Progress%20%F0%9F%9A%80;Exploring%20Node.js%20and%20Tailwind%20CSS;Building%20Dynamic%20Projects%20Everyday" alt="Typing SVG" />
+<!-- ⌨️ Custom Typing Animation -->
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&duration=2600&pause=900&color=4D96FF&center=true&vCenter=true&width=650&lines=Full%20Stack%20Developer%20in%20Progress%20%F0%9F%9A%80;Exploring%20Node.js%20and%20TailwindCSS;Turning%20Ideas%20into%20Scalable%20Code" 
+  alt="Typing Animation" 
+/>
 
 </div>
 
