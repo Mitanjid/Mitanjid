@@ -1,15 +1,24 @@
-<div align="center">
+<div align="center" style="position: relative; overflow: hidden;">
 
-<img 
-  src="https://capsule-render.vercel.app/api?type=soft&height=200&text=Muzahidul%20Islam%20Tanjid&fontSize=42&fontColor=ffffff&color=0:FF6B6B,50:FFD93D,100:6BCB77&animation=fadeIn" 
-  width="100%" 
-/>
+<!-- Animated Gradient Background -->
+<svg width="100%" height="180">
+  <defs>
+    <linearGradient id="grad">
+      <stop offset="0%" stop-color="#4D96FF">
+        <animate attributeName="stop-color" values="#4D96FF;#6BCB77;#FFD93D;#4D96FF" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#FFD93D">
+        <animate attributeName="stop-color" values="#FFD93D;#4D96FF;#6BCB77;#FFD93D" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="180" fill="url(#grad)" />
+</svg>
 
-<!-- ✍️ Typing Animation -->
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00C9FF&center=true&vCenter=true&width=650&lines=Beginner+Web+Developer+💻;Learning+HTML,+CSS,+JavaScript;Exploring+TailwindCSS" 
-  alt="Typing Animation" 
-/>
+<!-- Name Overlaid -->
+<h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 36px; font-family: 'Fira Code', monospace;">
+  Muzahidul Islam Tanjid
+</h1>
 
 </div>
 
