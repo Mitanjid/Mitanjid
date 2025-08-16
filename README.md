@@ -1,14 +1,18 @@
 <div align="center">
 
 <!-- Header with custom animated gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF6B6B,FFD93D,6BCB77&height=180&section=header&text=Muzahidul%20Islam%20Tanjid&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img 
+  width="100%" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4D96FF,6BCB77,FFD93D&height=200&section=header&text=Muzahidul%20Islam%20Tanjid&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+/>
 
-<!-- Typing effect with custom color -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Beginner+Web+Developer+%F0%9F%92%BB;Learning+HTML,+CSS,+JavaScript+%F0%9F%9B%BB;Exploring+Tailwind+CSS" alt="Typing SVG" />
+<!-- Typing effect with different colors & speed -->
+<img 
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=4D96FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full+Stack+Developer+in+Progress+🚀;Loving+Node.js+,+Tailwind+CSS+💙;Building+Scalable+Projects+Everyday" 
+  alt="Typing SVG" 
+/>
 
 </div>
-
----
 
 ## 🌟 About Me
 
