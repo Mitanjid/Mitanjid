@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc" preserveAspectRatio="xMidYMid slice">
+  <title id="title">Muzahidul Islam Tanjid — Header</title>
+  <desc id="desc">Animated gradient banner with highlight sweep and drawn underline</desc>
+
+  <defs>
+    <!-- Background gradient (slowly shifts) -->
+    <linearGradient id="bg-grad" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="50%" stop-color="#22C55E"/>
+      <stop offset="100%" stop-color="#FDE047"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0; 1 0; -1 0" dur="14s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Moving shine for text -->
+    <linearGradient id="shine-grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Clip the shine to the text -->
+    <clipPath id="text-clip">
+      <text id="name-shape" x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+            font-family="Segoe UI, Roboto, Inter, Arial, sans-serif"
+            font-size="56" font-weight="800">
+        Muzahidul Islam Tanjid
+      </text>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="240" fill="url(#bg-grad)"/>
+
+  <!-- Text base + outline (for readability) -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        font-family="Segoe UI, Roboto, Inter, Arial, sans-serif"
+        font-size="56" font-weight="800" fill="#FFFFFF" fill-opacity="0.85">
+    Muzahidul Islam Tanjid
+  </text>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
+        font-family="Segoe UI, Roboto, Inter, Arial, sans-serif"
+        font-size="56" font-weight="800" fill="none" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="1.5">
+    Muzahidul Islam Tanjid
+  </text>
+
+  <!-- Animated shine sweeping across the text -->
+  <g clip-path="url(#text-clip)">
+    <rect x="-320" y="0" width="320" height="240" fill="url(#shine-grad)">
+      <animate attributeName="x" from="-320" to="1200" dur="4.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Underline that draws in -->
+  <line x1="240" y1="170" x2="960" y2="170" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="3"
+        stroke-linecap="round" stroke-dasharray="720" stroke-dashoffset="720">
+    <animate attributeName="stroke-dashoffset" from="720" to="0" dur="1.8s" fill="freeze"/>
+  </line>
+</svg>
