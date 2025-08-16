@@ -1,48 +1,65 @@
-<!-- 🎯 Custom Glitch SVG Header -->
+<!-- 🎯 Glitch Header -->
 <p align="center">
   <img src="./header.svg" alt="Muzahidul Islam Tanjid glitch header" width="100%">
 </p>
 
 <!-- ✍️ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Beginner+Web+Developer+from+Bangladesh;HTML+%7C+CSS+%7C+JavaScript+%7C+Tailwind;Learning+by+Building+Every+Day" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Tanjid+👋;Beginner+Web+Developer;Passionate+about+HTML,+CSS,+JS;Learning+Tailwind+and+React+🌱" alt="Typing SVG" />
 </p>
-
----
-
-## 🌟 About Me
-💻 **Beginner Web Developer** from Bangladesh  
-🎯 Focused on **HTML, CSS, JavaScript, TailwindCSS**  
-🚀 Learning by **building projects** and experimenting every day
-
 ---
 
 ## 🚀 Skills
-![HTML](https://img.shields.io/badge/HTML-FF6B6B?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-FFD93D?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-6BCB77?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4D96FF?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+🧠 **Languages:**  
+`HTML` `CSS` `JavaScript`  
+
+🎨 **Frameworks:**  
+`Tailwind CSS`  
+
+🛠️ **Tools:**  
+`VS Code` `Git` `GitHub`  
 
 ---
 
 ## 💻 Projects
-- 🌸 **Flower Shop Landing Page** – [View Project](https://mitanjid.github.io/PH-assignment-02/)  
-- 📚 **My Book Shelf** – [View Project](https://mitanjid.github.io/my_bookshelf-/)
+
+🌸 **Flower Shop Landing Page**  
+Responsive website built with HTML & Tailwind CSS  
+🔗 [View Project](https://mitanjid.github.io/PH-assignment-02/)
+
+📚 **My Book Shelf**  
+Simple project to practice CRUD operations  
+🔗 [View Project](https://mitanjid.github.io/my_bookshelf-/)
 
 ---
 
 ## 📈 GitHub Stats
+
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mitanjid&show_icons=true&theme=radical&count_private=true&bg_color=1e1e2f&title_color=FF6B6B&icon_color=FFD93D&text_color=6BCB77" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitanjid&layout=compact&theme=radical&bg_color=1e1e2f&title_color=FF6B6B&text_color=6BCB77" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mitanjid&show_icons=true&theme=radical" alt="Tanjid's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitanjid&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzahidul-islam-18b8b5329/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-34495E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mitanjid)
+## 🌱 Learning Goals
+
+- 🌐 Build more responsive websites with Tailwind CSS  
+- ⚛️ Learn **React** and **Node.js**  
+- 🤝 Contribute to open-source projects  
 
 ---
 
-✨ **Always learning, always building!**
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muzahidul-islam-18b8b5329/)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
+</p>
+
+<h3 align="center">✨ Always learning, always building!</h3>
