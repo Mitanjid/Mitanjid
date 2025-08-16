@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header with animated gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanjid%20Islam&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanjid%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 <!-- Animated typing effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Beginner+Web+Developer+%F0%9F%92%BB;Learning+HTML,+CSS,+JavaScript+%F0%9F%9B%BB;Exploring+Tailwind+CSS" alt="Typing SVG" />
