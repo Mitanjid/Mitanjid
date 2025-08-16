@@ -1,8 +1,7 @@
 <div align="center">
 
-<!-- 🌊 Soft Wavy Header -->
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Muzahidul%20Islam%20Tanjid&fontSize=42&fontColor=ffffff&color=0:00C9FF,100:92FE9D&animation=fadeIn" 
+  src="https://capsule-render.vercel.app/api?type=soft&height=200&text=Muzahidul%20Islam%20Tanjid&fontSize=42&fontColor=ffffff&color=0:FF6B6B,50:FFD93D,100:6BCB77&animation=fadeIn" 
   width="100%" 
 />
 
