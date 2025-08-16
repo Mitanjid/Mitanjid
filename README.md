@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- 🌊 Wavy Gradient Header -->
+<!-- 🌊 Soft Wavy Header -->
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Muzahidul%20Islam%20Tanjid&fontSize=42&fontColor=ffffff&color=0:4D96FF,50:6BCB77,100:FFD93D&animation=fadeIn" 
+  src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Muzahidul%20Islam%20Tanjid&fontSize=42&fontColor=ffffff&color=0:00C9FF,100:92FE9D&animation=fadeIn" 
   width="100%" 
 />
 
-<!-- ⌨️ Custom Typing Animation -->
+<!-- ✍️ Typing Animation -->
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=22&duration=2600&pause=900&color=4D96FF&center=true&vCenter=true&width=650&lines=Full%20Stack%20Developer%20in%20Progress%20%F0%9F%9A%80;Exploring%20Node.js%20and%20TailwindCSS;Turning%20Ideas%20into%20Scalable%20Code" 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00C9FF&center=true&vCenter=true&width=650&lines=Beginner+Web+Developer+💻;Learning+HTML,+CSS,+JavaScript;Exploring+TailwindCSS" 
   alt="Typing Animation" 
 />
 
